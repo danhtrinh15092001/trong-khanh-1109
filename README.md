@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trong-khanh-1109
 - 👀 I’m interested in Code, Tennis and Music
 - 🌱 I’m currently learning Computer Science at UIT(University Information of Technology)
-- 💞️ I’m looking to collaborate on Facebook (https://www.facebook.com/khanh.do.7923030)
+- 💞️ I’m looking to collaborate on Facebook [Đỗ Trọng Khánh](https://www.facebook.com/khanh.do.7923030)
 - 📫 How to reach me dotrongkhanh37@gmail.com
 
 <!---
