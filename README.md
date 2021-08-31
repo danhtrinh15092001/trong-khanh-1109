@@ -5,4 +5,5 @@
 - 📫 How to reach me dotrongkhanh37@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109ra&layout=compact)]
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trong-khanh-1109)  
