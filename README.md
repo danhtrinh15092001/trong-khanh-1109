@@ -4,7 +4,18 @@ My name is Do Trong Khanh. I'm a student in Computer Science major.
    - 🎾 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Machine learning```    
    - 🎾 Contact me via:   
       + 📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/khanh.do.7923030): [Đỗ Trọng Khánh](https://www.facebook.com/khanh.do.7923030)
-      + 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](luongphambao1901@gmail.com): [19521676@gm.uit.edu.vn](mailto:19521676@gm.uit.edu.vn) or [trongkhanh1109.it@gmail.com](mailto:trongkhanh1109.it@gmail.com)   
+      + 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](luongphambao1901@gmail.com): [19521676@gm.uit.edu.vn](mailto:19521676@gm.uit.edu.vn) or [trongkhanh1109.it@gmail.com](mailto:trongkhanh1109.it@gmail.com)
+
+
+<table>
+<tr>
+  <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="50%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact)
