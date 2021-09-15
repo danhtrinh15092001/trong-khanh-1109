@@ -1,7 +1,7 @@
-### Hi, My name is Do Trong Khanh. I'm a student in Computer Science major.
+### 🎾 Hi, My name is Do Trong Khanh. I'm a student in Computer Science major.
   - 🎾 I have experiences with ```C++``` ```Python``` ```Javascript```      
   - 🎾 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
-   - 🎾 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Machine learning```    
+  - 🎾 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Machine learning```    
 
 ### 📫 Contact me via:
    - 📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/khanh.do.7923030): [Đỗ Trọng Khánh](https://www.facebook.com/khanh.do.7923030)
