@@ -8,6 +8,6 @@
    - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](luongphambao1901@gmail.com): [19521676@gm.uit.edu.vn](mailto:19521676@gm.uit.edu.vn) or [trongkhanh1109.it@gmail.com](mailto:trongkhanh1109.it@gmail.com).
 
 ### :zap: GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trong-khanh-1109)  
