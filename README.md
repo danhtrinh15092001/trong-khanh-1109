@@ -1,5 +1,5 @@
 ### 🎾 Hi, My name is Do Trong Khanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm a student in Computer Science major.
-  - 🎾 I have experiences with ```C++``` ```Python``` ```Javascript```      
+  - 🎾 I have experiences with ```C++``` ```Python``` ```Javascript```.
   - 🎾 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
   - 🎾 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Machine learning```.
 
