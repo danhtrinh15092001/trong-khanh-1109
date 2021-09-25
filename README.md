@@ -5,7 +5,7 @@
 
 ### 📫 Contact me via:
    - 📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/khanh.do.7923030): [Đỗ Trọng Khánh](https://www.facebook.com/khanh.do.7923030).
-   - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](dotrongkhanh37@gmail.com): [19521676@gm.uit.edu.vn](mailto:19521676@gm.uit.edu.vn) or [trongkhanh1109.it@gmail.com](mailto:trongkhanh1109.it@gmail.com).
+   - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](trongkhanh1109.it@gmail.com): [19521676@gm.uit.edu.vn](mailto:19521676@gm.uit.edu.vn) or [trongkhanh1109.it@gmail.com](mailto:trongkhanh1109.it@gmail.com).
 
 ### :zap: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight&hide=issues)
