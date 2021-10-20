@@ -17,6 +17,9 @@
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src='https://activity-graph.herokuapp.com/graph?username=trong-khanh-1109&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true'>
+    </td>
+  </tr>
 </table>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trong-khanh-1109&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true)  
