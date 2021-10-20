@@ -8,6 +8,15 @@
    - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:trongkhanh1109.it@gmail.com): [19521676@gm.uit.edu.vn](mailto:19521676@gm.uit.edu.vn) or [trongkhanh1109.it@gmail.com](mailto:trongkhanh1109.it@gmail.com).
 
 ### :zap: GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27)
+<table>
+  <tr>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight&hide=issues'>
+    </td>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
+    </td>
+  </tr>
+</table>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=trong-khanh-1109&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true)  
